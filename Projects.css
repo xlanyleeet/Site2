@@ -1,0 +1,134 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/3c1919bfd6c8e0f48b4d7a621ca7b33db45a805e84c903423ec0e664bf7e0631cd7cdb5387010d18992a5ed53167d327d93af894914f154e512794_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 597px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  font-size: 6rem;
+  font-weight: 700;
+  margin: 191px auto 0 40px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 19px 77px 0 40px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 262px;
+  height: 262px;
+  background-image: url("images/music.png");
+  background-position: 50% 50%;
+  margin: -234px 121px 0 auto;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 19px auto 60px 40px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 810px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -204px;
+    margin-right: 116px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: -18px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 620px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 0;
+    margin-right: 377px;
+    margin-left: 68px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -235px;
+    margin-right: 24px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 6px;
+    margin-left: 125px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 543px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 265px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 207px;
+    height: 207px;
+    margin-top: -177px;
+    margin-right: 33px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: -5px;
+    margin-left: 52px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 478px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    width: 175px;
+    margin-top: 181px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 11px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 144px;
+    height: 144px;
+    margin-top: -282px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 161px;
+    margin-left: auto;
+  }
+}
