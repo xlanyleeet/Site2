@@ -36716,7 +36716,12 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 187px;
+  min-height: 146px;
+}
+
+.u-footer .u-text-1 {
+  font-size: 1.25rem;
+  margin: 57px 861px 0 0;
 }
 
 .u-footer .u-social-icons-1 {
@@ -36725,7 +36730,7 @@ a.u-link.u-text-hover-grey-90:hover {
   min-height: 16px;
   width: 146px;
   min-width: 68px;
-  margin: 74px 0 0 auto;
+  margin: -37px 0 52px auto;
 }
 
 .u-footer .u-icon-1 {
@@ -36739,27 +36744,23 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-icon-3 {
   height: 100%;
 }
-
-.u-footer .u-text-1 {
-  font-size: 1.25rem;
-  margin: -32px 861px 60px 0;
-}
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
     min-height: 178px;
   }
 
-  .u-footer .u-social-icons-1 {
-    width: 146px;
-    margin-top: 68px;
-    margin-right: 29px;
-  }
-
   .u-footer .u-text-1 {
     width: auto;
-    margin-top: -26px;
+    margin-top: 84px;
     margin-right: 615px;
     margin-left: 38px;
+  }
+
+  .u-footer .u-social-icons-1 {
+    width: 146px;
+    margin-top: -48px;
+    margin-right: 29px;
+    margin-bottom: 60px;
   }
 }
 @media (max-width: 991px) {
@@ -36768,9 +36769,14 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-text-1 {
-    margin-top: -31px;
-    margin-left: 0;
+    margin-top: 79px;
     margin-right: 434px;
+    margin-left: 0;
+  }
+
+  .u-footer .u-social-icons-1 {
+    margin-top: -43px;
+    margin-bottom: 58px;
   }
 }
 @media (max-width: 767px) {
@@ -36778,15 +36784,15 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 131px;
   }
 
-  .u-footer .u-social-icons-1 {
-    margin-top: 45px;
-    margin-right: 15px;
+  .u-footer .u-text-1 {
+    margin-top: 50px;
+    margin-right: 270px;
   }
 
-  .u-footer .u-text-1 {
+  .u-footer .u-social-icons-1 {
     margin-top: -37px;
-    margin-right: 270px;
-    margin-bottom: 50px;
+    margin-right: 15px;
+    margin-bottom: 45px;
   }
 }
 @media (max-width: 575px) {
@@ -36794,11 +36800,19 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 143px;
   }
 
+  .u-footer .u-text-1 {
+    width: 270px;
+    margin-top: 21px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   .u-footer .u-social-icons-1 {
     height: 33px;
     width: 120px;
-    margin-top: 74px;
+    margin-top: 21px;
     margin-right: auto;
+    margin-bottom: 35px;
   }
 
   .u-footer .u-icon-1 {
@@ -36811,11 +36825,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-icon-3 {
     height: 33px;
-  }
-
-  .u-footer .u-text-1 {
-    width: 270px;
-    margin: -86px auto 60px;
   }
 }
 
