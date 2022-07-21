@@ -2,11 +2,11 @@
 <html style="font-size: 16px;"><head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="MUSIC+">
+    <meta name="keywords" content="Vlad aka xLanyleeet">
     <meta name="description" content="">
-    <title>Projects</title>
+    <title>Home</title>
     <link rel="stylesheet" href="nicepage.css" media="screen">
-<link rel="stylesheet" href="Projects.css" media="screen">
+<link rel="stylesheet" href="XLANYLEEET.css" media="screen">
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
     <meta name="generator" content="Nicepage 4.13.4, nicepage.com">
@@ -24,10 +24,10 @@
 		]
 }</script>
     <meta name="theme-color" content="#478ac9">
-    <meta property="og:title" content="Projects">
+    <meta property="og:title" content="Home">
     <meta property="og:type" content="website">
   </head>
-  <body class="u-body u-xl-mode"><header class="u-align-center-sm u-align-center-xs u-black u-clearfix u-header u-header" id="sec-4c53"><div class="u-clearfix u-sheet u-sheet-1">
+  <body data-home-page="XLANYLEEET.html" data-home-page-title="XLANYLEEET" class="u-body u-xl-mode"><header class="u-align-center-sm u-align-center-xs u-black u-clearfix u-header u-header" id="sec-4c53"><div class="u-clearfix u-sheet u-sheet-1">
         <nav class="u-align-left u-menu u-menu-dropdown u-offcanvas u-offcanvas-shift u-menu-1" data-responsive-from="MD">
           <div class="menu-collapse" style="font-size: 1rem;">
             <a class="u-button-style u-nav-link" href="#" style="font-size: calc(1em + 8px);">
@@ -59,12 +59,11 @@
         </nav>
         <h6 class="u-text u-text-default u-text-1">/xLany/leeet</h6>
       </div></header>
-    <section class="u-align-left u-clearfix u-image u-shading u-section-1" src="" id="sec-e66f" data-image-width="1280" data-image-height="853">
+    <section class="u-align-left u-clearfix u-image u-shading u-section-1" id="carousel_c4e7" data-image-width="2314" data-image-height="1500">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <h1 class="u-text u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-title u-text-1">MUSIC+</h1>
-        <p class="u-align-center-md u-align-center-sm u-align-center-xs u-large-text u-text u-text-variant u-text-2">Powerful discord music bot. Using Lavalink node.</p>
         <div class="u-image u-image-circle u-preserve-proportions u-image-1" alt="" data-image-width="1024" data-image-height="1024"></div>
-        <a href="https://discord.com/api/oauth2/authorize?client_id=826846734172160050&amp;permissions=8&amp;scope=bot" class="u-btn u-button-style u-palette-2-base u-btn-1" target="_blank">Invite bot</a>
+        <p class="u-text u-text-1">Youtuber<br>Bot Developer<br>Student<br>Minecraft Player
+        </p>
       </div>
     </section>
     
@@ -80,6 +79,16 @@
         </div>
         <p class="u-small-text u-text u-text-variant u-text-1">Developed by /XLANY/LEEET</p>
       </div></footer>
-
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
+        <span>Website Templates</span>
+      </a>
+      <p class="u-text">
+        <span>created with</span>
+      </p>
+      <a class="u-link" href="" target="_blank">
+        <span>Website Builder Software</span>
+      </a>. 
+    </section>
   
 </body></html>
